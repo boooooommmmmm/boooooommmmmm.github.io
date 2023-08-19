@@ -1,0 +1,586 @@
+[
+    {
+        "type": "早餐",
+        "list": [
+            {
+                "food": "面包",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "蛋糕",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "荷包蛋",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "烧饼",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "饽饽",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "肉夹馍",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "油条",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "馄饨",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "火腿",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "面条",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "小笼包",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "肉包",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "煎饼果子",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "饺子",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "玉米粥",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "煎蛋",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "烧卖",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "生煎",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "锅贴",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "包子",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "酸奶",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "苹果",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "梨",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "香蕉",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "皮蛋瘦肉粥",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "蛋挞",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "南瓜粥",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "煎饼",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "玉米糊",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "泡面",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "粥",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "馒头",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "燕麦片",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "水煮蛋",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "米粉",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "豆浆",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "牛奶",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "花卷",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "豆腐脑",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "煎饼果子",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "小米粥",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "黑米糕",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "鸡蛋饼",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "牛奶布丁",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "水果沙拉",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "鸡蛋羹",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "南瓜馅饼",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "鸡蛋灌饼",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "奶香小馒头",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "汉堡包",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "披萨",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "八宝粥",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "三明治",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "蛋包饭",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "豆沙红薯饼",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "驴肉火烧",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "粥",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "粢饭糕",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "蒸饺",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "白粥",
+                "flavour": 0,
+                "type": 0
+            }
+        ]
+    },
+    {
+        "type": "午餐",
+        "list": [
+            {
+                "food": "盖浇饭",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "砂锅",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "大排档",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "米线",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "满汉全席",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "西餐",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "麻辣烫",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "自助餐",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "炒面",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "快餐",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "水果",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "西北风",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "馄饨",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "火锅",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "烧烤",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "泡面",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "水饺",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "日本料理",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "涮羊肉",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "味千拉面",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "面包",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "扬州炒饭",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "自助餐",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "菜饭骨头汤",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "茶餐厅",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "海底捞",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "西贝莜面村",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "披萨",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "麦当劳",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "KFC",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "汉堡王",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "卡乐星",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "兰州拉面",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "沙县小吃",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "烤鱼",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "烤肉",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "海鲜",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "铁板烧",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "韩国料理",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "粥",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "快餐",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "萨莉亚",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "桂林米粉",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "东南亚菜",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "甜点",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "农家菜",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "川菜",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "粤菜",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "湘菜",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "本帮菜",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "生活",
+                "flavour": 0,
+                "type": 0
+            },
+            {
+                "food": "全家便当",
+                "flavour": 0,
+                "type": 0
+            }
+        ]
+    },
+    {
+        "hint": {
+            "flavour": {
+                "Sweet": 0,
+                "Salty": 1,
+                "Spicy": 2
+            },
+            "type": {
+                "无": 0,
+                "川菜": 1,
+                "粤菜": 2
+            }
+        }
+    }
+]
